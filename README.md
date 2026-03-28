@@ -1,25 +1,18 @@
 <div align="center">
 
-![Dashboard Banner](https://img.shields.io/badge/📊-Retail%20Sales%20%26%20MIS%20Dashboard-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=200&section=header&text=Retail%20Sales%20Dashboard&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# 📈 Retail Sales & MIS Performance Dashboard
-
-[![Excel](https://img.shields.io/badge/Excel-2016%2B-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
-[![Power Query](https://img.shields.io/badge/Power%20Query-ETL-F2A900?style=flat-square&logo=powerbi&logoColor=white)](https://learn.microsoft.com/power-query/)
-[![Data Analysis](https://img.shields.io/badge/Data-Analysis-0078D4?style=flat-square&logo=analytics&logoColor=white)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-
-*Transforming Raw Retail Data into Actionable Business Intelligence*
-
----
-
-<img src="project%20GIF.gif" alt="Animated Dashboard Preview" width="800" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+# 📊 Retail Sales & MIS Performance Dashboard
 
 <p align="center">
-  <i>⚡ Interactive Dashboard Preview - Click & Explore!</i>
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-F2A900?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Professional-0078D4?style=for-the-badge" />
 </p>
 
-[📥 Download](#-how-to-use) • [📖 Documentation](#-data-processing--methodology) • [📊 Features](#-key-features) • [🤝 Contributing](#-contributing)
+<h3>🚀 Turning Raw Retail Data into Smart Business Decisions</h3>
+
+<img src="project%20GIF.gif" width="800" style="border-radius:12px;" />
 
 ---
 
@@ -27,50 +20,107 @@
 
 ## 🎯 Project Overview
 
-> **💡 Mission:** Bridge the gap between **raw, unstructured retail data** and **high-level strategic decision-making**.
+This project demonstrates a **complete data analysis workflow** using **Microsoft Excel** — from raw dataset to a fully interactive **MIS Dashboard**.
 
-This project showcases an **end-to-end data analysis workflow** utilizing **Microsoft Excel**. Through rigorous data cleaning, **Power Query transformations**, and advanced **pivot table aggregations**, we produce a dynamic **Management Information System (MIS) Dashboard**.
-
-Stakeholders can seamlessly:
-- 📊 Track **revenue growth** over time
-- 💰 Monitor **profit margins** across product categories  
-- 🛍️ Evaluate **sales channel performance**
-- 📅 Analyze **monthly trends** with interactive slicers
+✔ Cleaned messy retail data
+✔ Built automated ETL pipeline using Power Query
+✔ Created dynamic dashboard with slicers & charts
+✔ Generated business-ready insights
 
 ---
 
 ## ✨ Key Features
 
-<div align="center">
-
-| 🎨 Feature | 📝 Description |
-|:----------:|:---------------|
-| **🔄 Auto-Refresh** | Power Query connections enable one-click data updates |
-| **🎛️ Interactive Slicers** | Filter by date, category, channel, and region |
-| **📊 Dynamic Charts** | Real-time visualizations that respond to filters |
-| **🧹 Data Cleaning** | Automated text normalization & date standardization |
-| **💹 Profit Analytics** | Per-transaction margin calculations |
-| **📱 Responsive Layout** | Optimized for various screen sizes |
-
-</div>
+* 🔄 **One-click refresh** using Power Query
+* 🎛️ **Interactive filters (Slicers)**
+* 📊 **Dynamic charts & KPIs**
+* 🧹 **Automated data cleaning**
+* 💹 **Profit & margin tracking**
+* 📅 **Monthly trend analysis**
 
 ---
 
-## 💡 Key Business Insights
+## 📊 Dashboard Highlights
 
-<div align="center">
+### 💰 Financial Overview
 
-### 🏦 Overall Financial Health
-
-| Metric | Value | Status |
-|:------:|:-----:|:------:|
-| **💵 Total Revenue** | `$134,748` | ✅ |
-| **📈 Net Profit** | `$21,392` | ✅ |
-| **🎯 Profit Margin** | `~15.9%` | ✅ |
-| **📦 Units Sold** | `846` | ✅ |
-
-</div>
+| Metric     | Value    |
+| ---------- | -------- |
+| 💵 Revenue | $134,748 |
+| 📈 Profit  | $21,392  |
+| 🎯 Margin  | 15.9%    |
+| 📦 Units   | 846      |
 
 ---
 
-### 🏆 Top Performing Categories
+### 🏆 Top Categories
+
+* 🥇 Electronics — Highest revenue contributor
+* 🥈 Clothing — Strong consistent sales
+* 🥉 Home Appliances — High profit margins
+
+---
+
+### 🌍 Sales Channel Performance
+
+* 🛒 Online: Highest growth rate
+* 🏬 Retail Store: Stable performance
+* 📦 Wholesale: Bulk-driven revenue
+
+---
+
+## ⚙️ Tools & Technologies
+
+* Microsoft Excel
+* Power Query (ETL)
+* Pivot Tables
+* Data Visualization
+
+---
+
+## 📂 Project Structure
+
+```
+📁 Retail-Dashboard
+ ┣ 📊 Dashboard.xlsx
+ ┣ 📸 Screenshots
+ ┣ 🎥 project GIF.gif
+ ┗ 📄 README.md
+```
+
+---
+
+## 🚀 How to Use
+
+1. Download the Excel file
+2. Open in Excel (2016 or later)
+3. Click **Refresh All**
+4. Use slicers to explore data
+
+---
+
+## 🧠 What I Learned
+
+* Real-world data cleaning challenges
+* Building scalable Excel dashboards
+* Creating business insights from raw data
+* Designing user-friendly reports
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<div align="center">
+
+⭐ If you like this project, consider giving it a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0078D4&height=120&section=footer" />
+
+</div>
